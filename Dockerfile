@@ -4,4 +4,4 @@ ADD tcp_server.py /
 
 EXPOSE 6789
 
-CMD [ "python", "-c", "./tcp_server.py" ]
+CMD [ "python", "-c", "/tcp_server.py" ]
